@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.example.timeapplication_project"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.timeapplication_project"

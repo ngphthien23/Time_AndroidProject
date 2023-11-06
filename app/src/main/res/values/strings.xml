@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TimeApplication_Project</string>
+    <string name="time_management">TIME MANAGEMENT</string>
+    <string name="string_login">LOGIN</string>
+    <string name="string_username">Username</string>
+    <string name="string_password">Password</string>
 </resources>
